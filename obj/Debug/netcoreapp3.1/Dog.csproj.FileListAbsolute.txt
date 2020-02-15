@@ -1,0 +1,11 @@
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.exe
+D:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.deps.json
+D:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.json
+D:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.dev.json
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.dll
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.pdb
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.csprojAssemblyReference.cache
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfoInputs.cache
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfo.cs
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.dll
+d:\Abby\Documents\SPR2020 INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.pdb
